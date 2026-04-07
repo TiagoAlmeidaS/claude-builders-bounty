@@ -1,5 +1,5 @@
 # Pre-tool-use Hook
-> Last updated: 2026-04-06
+> Last updated: 2026-04-07
 ## Overview
 The pre-tool-use hook is designed to intercept and block execution of dangerous bash commands, preventing accidental data loss or corruption. This feature was implemented to enhance user safety when using command-line tools.
 ## How It Works
